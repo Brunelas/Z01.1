@@ -1,5 +1,9 @@
 # E - Assembly
 
+| Entrega      |
+|--------------|
+| 19/10 - Quinta |
+
 ![Assembly](figs/F-Assembly/sistema-assembly.svg)
 
 Nesse projeto cada grupo terá que implementar diversos códigos em assembly a fim de entendermos a linguagem e as limitações do hardware propostos.
