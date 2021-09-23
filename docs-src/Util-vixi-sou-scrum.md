@@ -11,7 +11,7 @@
 
     3. Ler documentação do projeto
 
-    4. [Configurar Travis para executar teste do projeto](https://insper.github.io/Z01.1/Util-Dicas-Travis/)
+    4. [Configurar Actions para executar teste do projeto](https://insper.github.io/Z01.1/Util-Dicas-Travis/)
 
     5. Criar Project e issues no github (detalhes ao final dessa página)
         - Discuta com os seus colegas
