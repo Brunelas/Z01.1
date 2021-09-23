@@ -37,6 +37,32 @@ Labs:
 
 -->
 
+## Aula 12 - 24/09
+
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [Linguagem de máquina](https://insper.github.io/Z01.1/Teoria-Linguagem-de-Maquina/)           |
+
+
+1. Avaliação docente (0h15):
+   
+1. Expositiva/ Dúvidas (1h00):
+    - [Slides](https://github.com/Insper/Z01.1/raw/main/Aulas/12-Slides-Assembly.pdf)
+
+1. Laboratório (0h45)
+    - [Lab 11: Assembly](/Z01.1/assembly-Lab-1/)
+    
+
+## Aula 11 - 22/09
+
+Projeto D-Lógica Sequencial.
+
+1. Expositiva/ Dúvidas (0h30)
+
+1. Aula estúdio (1h30)
+
+
 ## Aula 10 - 17/09
 
 Começo do projeto D-Lógica Sequencial.
