@@ -39,7 +39,7 @@ $ git merge upstream/main
 ```
 
 Feito isso deve ter aparecido uma nova pasta dentro do repositório de vocês: `Projetos/B-LogicaCombinacional/`.
-
+<!--
 ### travis
 
 !!! tip "Arquivos ocultos"
@@ -62,6 +62,31 @@ Agora vamos realizar um commit e submeter aos demais colegas do grupo as altera�
 ```bash
 $ git add .travis.yml
 $ git commit -m "configurando travis para novo projeto"
+```
+-->
+
+### Actions
+
+!!! tip "Arquivos ocultos"
+    No linux os arquivos que começam com `.` são ocultos, ou seja, eles não
+    aparecem normalmente no gerenciador de arquivos ou no comando `ls`, para ver os arquivos ocultos:
+    
+    - No gerenciador de arquivos aperte <kbd>crtl</kbd>+<kbd>h</kbd> (*h de hide*)
+    - `ls -a` (*onde -a indica all*)
+
+Edite o arquivo `actions.yml` localizado na pasta .github/workflows/ modificando o final do arquivo para ficar como:
+
+``` yml
+        python3 Projetos/B-LogicaCombinacional/testeLogicaCombinacional.py
+        python3 Projetos/C-UnidadeLogicaAritmetica/testeULA.py
+        python3 Projetos/D-LogicaSequencial/testeLogicaSequencial.py
+```
+
+Agora vamos realizar um commit e submeter aos demais colegas do grupo as alterações:
+
+```bash
+$ git add .github/workflows/actions.yml
+$ git commit -m "configurando actions para novo projeto"
 ```
 
 ### `SCRUM_MASTER.json`
