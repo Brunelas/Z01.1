@@ -4,7 +4,7 @@ Ao final desse lab você deve ser capaz de:
 
 1. Usar o simulador gráfico 
 1. Fazer pequenas modificações em um código assembly
-1. Executar script de teste do projeto F - Assembly
+1. Executar script de teste do projeto E - Assembly
 
 !!! warning "Antes de começar"
     Toda vez que um novo projeto começar será necessário realizar algumas configurações no repositório do grupo, vocês devem seguir para o documento: [`Util/Começando novo Projeto`](https://insper.github.io/Z01.1/Util-Comecando-novo-projeto/) e depois voltar para esse lab.
@@ -49,7 +49,7 @@ Para inicializar o simulador basta executar o script localizado na pasta do proj
 $ python3 Projetos/E-Assembly/Z01simulador.py
 ```
 
-##EInterface do Simulador 
+##Interface do Simulador 
 
 O simulador possui a interface a seguir, onde a coluna da esquerda é referente a memória ROM (programa), a coluna da direita referente a memória RAM (dados). 
 
