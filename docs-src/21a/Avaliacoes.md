@@ -35,6 +35,32 @@ Simulado liberado no blackboard.
 
 ## AV2 - AI - sexta 01/10
 
+Avaliação prática individual a ser realizada no SSD Linux. 
+
+A avaliação será distribuída via github classroom (link estará no blakcboard) e o envio deve ser feito via ele.
+
+Liberado consulta ao material da disciplina.
+
+- Projetos:
+    - B: Lógica Combinacional  
+    - C: ULA
+    - D: Lógica Sequêncial
+
+- Conteúdos:
+    - Componentes Digitais
+    - Aritmética Binária - HW: Half-Adder/ Full-Adder/ Somadores
+    - ULA
+    - Lógica Sequêncial
+    - Componentes Síncronos
+    - VHDL: Combinacional
+    - VHDL: Síncrono
+    - RTL
+    - Formas de onda
+    - Arquivos de teste
+
+**Simulado liberado no blackboard.**
+
+
 ## AV1 - sexta 03/09 - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Av1_bb_respostas.pdf)
 
 Avaliação teórica será realizado no blackboard, com proctorio e sem consulta.
