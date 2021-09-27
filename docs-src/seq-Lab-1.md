@@ -94,7 +94,7 @@ Ao final dessa etapa você deve ser capaz de:
 
 Com o FFD implementando, vocês são capazes de implementar o binary-digit, que possui internamente um FF tipo D:
 
-![](figs/E-LogSeq/binarydigit.png){600px}
+![](figs/E-LogSeq/binarydigit_v2.svg)
 
 Para isso vocês terão que modificar o arquivo: `D-LogicaSequencial/src/rtl/BinaryDigit.vhd` e utilizando `port map` criar o componente `binaryDigit`.
 
