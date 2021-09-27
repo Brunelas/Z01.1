@@ -68,7 +68,7 @@ Os modulos a serem desenvolvidos na entrega estão detalhados no livro base do c
     - **Dependência**: `FlipFlopD` e `Mux2Way`
     - **Descrição** : É um registrador feito para armazenar um único bit de informação (0 ou 1). A interface do módulo consiste em uma entrada (d) para o bit a ser armazenado, um sinal de **load** para indicar quando o bit de entrada deve ser armazenado um sinal de *clock* e a saída *output** que é o bit armazenado:
     
-![Binary Digit](figs/E-LogSeq/binarydigit.png)
+![Binary Digit](figs/E-LogSeq/binarydigit_v2.svg)
     
 ---------------------------
 
