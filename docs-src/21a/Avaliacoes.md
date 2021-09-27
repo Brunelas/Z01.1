@@ -60,6 +60,8 @@ Liberado consulta ao material da disciplina.
 
 **Simulado liberado no blackboard.**
 
+[Prova - Av2 - 21a](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova-Av2-21a.pdf)
+
 
 ## AV1 - sexta 03/09 - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Av1_bb_respostas.pdf)
 
