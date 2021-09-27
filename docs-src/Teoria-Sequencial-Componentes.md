@@ -12,7 +12,7 @@
 
 Criado com um FlipFlop tipo D, esse componente (que vamos chamar de `bit`) é capaz de armazenar um bit e será usado na construção das unidades de memória utilizadas na CPU.
 
-![](figs/E-LogSeq/binarydigit.svg){width=500}
+![](figs/E-LogSeq/binarydigit_v2.svg){width=500}
 
 > DFF = FlipFlop do tipo D
 
