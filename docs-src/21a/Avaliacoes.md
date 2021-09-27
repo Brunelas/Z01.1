@@ -58,7 +58,7 @@ Liberado consulta ao material da disciplina.
     - Formas de onda
     - Arquivos de teste
 
-**Simulado liberado no blackboard.**
+**Simulado liberado no blackboard (até quinta-feira 30/09 às 23:59hs).**
 
 [Prova - Av2 - 21a](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova-Av2-21a.pdf)
 
