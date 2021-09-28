@@ -37,6 +37,19 @@ Labs:
 
 -->
 
+## Aula 13 - 29/09
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [ASM - Mapa de memória](https://insper.github.io/Z01.1/Teoria-Z01-mapadeMemoria/)       |
+
+   
+1. Revisão/ Dúvidas (1h00):
+
+1. Laboratório (1h00)
+    - [Lab 12: Periféricos](/Z01.1/assembly-Lab-2/)
+    
+
 ## Aula 12 - 24/09
 
 
