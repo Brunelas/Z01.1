@@ -14,7 +14,7 @@ Seguir as intruções a seguir para desenvolvimento do projeto.
 
 ## Entendendo a Organização do Projeto
 
-A pasta do projeto D, no repositório Z01, possui a seguinte estrutura:
+A pasta do projeto E, no repositório Z01, possui a seguinte estrutura:
 
 ```
 E-Assembly/
