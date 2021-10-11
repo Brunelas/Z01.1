@@ -117,9 +117,10 @@ nav:
   - 'Exercicio-Dados-2.md'
   - 'Handout Aritmetica Booleana': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Exercicio-Aritmetica-Booleana.pdf'
   - 'Handout Aritmetica Booleana - Resolução': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Exercicio-Aritmetica-Booleana_resolvido.pdf'
-  - 'Lógica Sequencial - 1': 'https://forms.gle/XMsFCDMYsmz1qUP86'
+  - 'Lógica Sequencial': 'https://forms.gle/XMsFCDMYsmz1qUP86'
   - 'Lógica Sequencial - resolução': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Lógica-Sequencial_resolucao.pdf'
-  - 'Linguagem de Máquina - 1': 'https://forms.gle/6jNZR4CAELJ69ZjXA'
+  - 'Linguagem de Máquina': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Linguagem_de_maquina.pdf' #'https://forms.gle/6jNZR4CAELJ69ZjXA'
+  - 'Linguagem de Máquina - respostas': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Linguagem_de_maquina_respostas.pdf' 
   - 'Exercicio-CPU-1.md'
   - 'Exercicio-CPU-2.md'
 
