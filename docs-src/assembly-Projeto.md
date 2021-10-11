@@ -81,8 +81,6 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
     - **Arquivo**   : `div.nasm` 
 - pow
     - **Arquivo**   : `pow.nasm`
-- String length 
-    - **Arquivo** : `stringLength.nasm`
 - Chaves e Leds 
     - **Arquivo** : `SWeLED.nasm`
 
@@ -90,22 +88,25 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
 #### Conceito B
 - É par 
     - **Arquivo** : `isEven.nasm`
+- String length 
+    - **Arquivo** : `stringLength.nasm`
 - Linha
     - **Arquivo**   : `line.nasm`
-- Quadrado
-    - **Arquivo**   : `quadrado.nasm`
+
 
 
 #### Conceito A
 
-- Palindromo 
-    - **Arquivo** : `palindromo.nasm`
+- Quadrado
+    - **Arquivo**   : `quadrado.nasm`
 - Letra Grupo
     - **Arquivo**   : `LCDletraGrupo.nasm`
 
     
 #### Extra
 
+- Palindromo 
+    - **Arquivo** : `palindromo.nasm`
 - fatorial
     - **Arquivo**   : `fatorial.nasm`    
 - Mean
@@ -120,5 +121,7 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
 
 
 
-
+### Formulários
+ - [Scrum Master](https://docs.google.com/forms/d/e/1FAIpQLSe6GEJ238aHQ5raPlcwn6M3X91gIcsc6fXUjQ6BgvSm2O8rTg/viewform?usp=sf_link)
+ - [Desenvolvedores](https://docs.google.com/forms/d/e/1FAIpQLSduO77Uzt0i8weuF1Jj-9T2dY868zRn_FWT4HdgE7dNf_VT4w/viewform?usp=sf_link)
 
