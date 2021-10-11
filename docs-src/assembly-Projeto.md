@@ -81,8 +81,6 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
     - **Arquivo**   : `div.nasm` 
 - pow
     - **Arquivo**   : `pow.nasm`
-- fatorial
-    - **Arquivo**   : `fatorial.nasm`
 - String length 
     - **Arquivo** : `stringLength.nasm`
 - Chaves e Leds 
@@ -90,28 +88,32 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
 
 
 #### Conceito B
+- É par 
+    - **Arquivo** : `isEven.nasm`
 - Linha
     - **Arquivo**   : `line.nasm`
 - Quadrado
     - **Arquivo**   : `quadrado.nasm`
+
+
+#### Conceito A
+
+- Palindromo 
+    - **Arquivo** : `palindromo.nasm`
 - Letra Grupo
     - **Arquivo**   : `LCDletraGrupo.nasm`
 
-#### Conceito A
-- É par 
-    - **Arquivo** : `isEven.nasm`
-- Palindromo 
-    - **Arquivo** : `palindromo.nasm`
-- Nome grupo
-    - **Arquivo** : `LCDnomeGrupo.nasm`
     
 #### Extra
 
+- fatorial
+    - **Arquivo**   : `fatorial.nasm`    
 - Mean
     - **Arquivo** : `vectorMean.nasm`
 - SWeLED2 
-    - **Arquivo** : `SWeLED2.nasm`
-    
+    - **Arquivo** : `SWeLED2.nasm`    
+- Nome grupo
+    - **Arquivo** : `LCDnomeGrupo.nasm`
 - excelToLCD.py
     - **Arquivo** : `excelToLCD.py`
     - Criar um programa em python que converte um tabela do excel (onde cada célula equivale a um px pintado) em um código nasm que executa no Z01 e gera a imagem da tabela
