@@ -37,6 +37,22 @@ Labs:
 
 -->
 
+## Aula 13/10
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [ASM - Jump](https://insper.github.io/Z01.1/Teoria-nasm-jump/)       |
+
+   
+1. Resolução prova (0h30)
+
+1. ASM - Jump (0h30)
+
+1. Laboratório (1h00)
+    - [Lab 12: Periféricos](/Z01.1/assembly-Lab-2/)
+    - [Lab 13: Jump](/Z01.1/assembly-Lab-3/)
+
+
 ## Aula 13 - 29/09
 
 | Estudo prévio                                                                           |
