@@ -2,7 +2,7 @@
 
 | Entrega      |
 |--------------|
-| 19/10 - Quinta |
+| 19/10 - Terça |
 
 ![Assembly](figs/F-Assembly/sistema-assembly.svg)
 
@@ -59,7 +59,7 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
 
 ### Módulos 
 
-- Esses arquivos estão localizados em `F-Assembly/src/nasm/`
+- Esses arquivos estão localizados em `E-Assembly/src/nasm/`
 
 **A descrição de cada módulo está localizada no cabeçalho do arquivo.**
  
@@ -87,6 +87,9 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
     - **Arquivo** : `stringLength.nasm`
 - Chaves e Leds 
     - **Arquivo** : `SWeLED.nasm`
+
+
+#### Conceito B
 - Linha
     - **Arquivo**   : `line.nasm`
 - Quadrado
@@ -94,24 +97,21 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
 - Letra Grupo
     - **Arquivo**   : `LCDletraGrupo.nasm`
 
-#### Conceito B
-
+#### Conceito A
 - É par 
     - **Arquivo** : `isEven.nasm`
 - Palindromo 
     - **Arquivo** : `palindromo.nasm`
 - Nome grupo
     - **Arquivo** : `LCDnomeGrupo.nasm`
-
-#### Conceito A
+    
+#### Extra
 
 - Mean
     - **Arquivo** : `vectorMean.nasm`
 - SWeLED2 
     - **Arquivo** : `SWeLED2.nasm`
     
-#### Extra
-
 - excelToLCD.py
     - **Arquivo** : `excelToLCD.py`
     - Criar um programa em python que converte um tabela do excel (onde cada célula equivale a um px pintado) em um código nasm que executa no Z01 e gera a imagem da tabela
