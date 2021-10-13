@@ -33,7 +33,7 @@ Liberado consulta ao material da disciplina.
 Simulado liberado no blackboard.
 --->
 
-## AV2 - AI - sexta 01/10
+## AV2 - AI - sexta 01/10 - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova-Av2_resposta.pdf )
 
 Avaliação prática individual a ser realizada no SSD Linux. 
 
