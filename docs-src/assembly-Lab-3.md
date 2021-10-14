@@ -17,8 +17,8 @@ Esse lab deve ser feito no Z01Simulador, para abrir o programa basta ==executar 
 
 ## Incondicional
 
-!!! example "jmp1.nasm" 
-    - `Projetos/E-Assembly/src/labs/jmp1.nasm`
+!!! example "lcd1.nasm" 
+    - `Projetos/E-Assembly/src/labs/lcd1.nasm`
     
     Preencha todos os px do LCD de preto!
     
@@ -34,7 +34,7 @@ Esse lab deve ser feito no Z01Simulador, para abrir o programa basta ==executar 
         
         Irei usar o RAM[0] para salvar o contador, que será incrementado a partir do endeço base do LCD `16384` até a onde o programa executar.
         
-        > Isso não é bom, vamos corrigir mais para frente!
+        > Neste exemplo, o valor final do loop não está sendo controlado!!
         
         ```nasm
         leaw $16384, %A
@@ -58,8 +58,8 @@ Esse lab deve ser feito no Z01Simulador, para abrir o programa basta ==executar 
 Saltos condicionais são utilizados para verificarmos condições no programa, vamos trabalhar um pouco com isso.
 
 
-!!! example "jmp2.nasm" 
-    - `Projetos/E-Assembly/src/labs/jmp2.nasm`
+!!! example "jmp1.nasm" 
+    - `Projetos/E-Assembly/src/labs/jmp1.nasm`
     
     Implemente o pseudo código a seguir em nasm:
     
@@ -145,7 +145,7 @@ Saltos condicionais são utilizados para verificarmos condições no programa, v
         ```
 
 !!! example "jmp4.nasm" 
-    - `Projetos/E-Assembly/src/labs/jmp4.nasm`
+    - Criar o arquivo `Projetos/E-Assembly/src/labs/jmp4.nasm`
     
     Implemente o pseudo código a seguir em nasm:
     
@@ -167,7 +167,7 @@ Saltos condicionais são utilizados para verificarmos condições no programa, v
         - Teste 2: RAM[0] = 2
 
 !!! example "jmp5.nasm" 
-    - `Projetos/E-Assembly/src/labs/jmp5.nasm`
+    - Criar o arquivo `Projetos/E-Assembly/src/labs/jmp5.nasm`
     
     Acione a metade superior dos pxs do LCD de preto.
     
