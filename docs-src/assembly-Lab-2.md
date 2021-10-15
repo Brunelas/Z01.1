@@ -109,8 +109,7 @@ Problemas relacionado a chave do nosso Z01
 Trabalhando com o LCD.
 
 !!! example "LCD" 
-<!--example "lcd1.nasm" 
-`Projetos/E-Assembly/src/labs/lcd1.nasm` -->
+    - Linhas 6-7 do arquivo `Projetos/E-Assembly/src/labs/lcd2.nasm` -->
     
     Acione os 16 primeiros pxs do LCD.
     
