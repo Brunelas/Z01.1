@@ -108,8 +108,8 @@ Problemas relacionado a chave do nosso Z01
 
 Trabalhando com o LCD.
 
-!!! example "lcd1.nasm" 
-    - `Projetos/E-Assembly/src/labs/lcd1.nasm`
+!!! LCD <!--example "lcd1.nasm" 
+    - `Projetos/E-Assembly/src/labs/lcd1.nasm` -->
     
     Acione os 16 primeiros pxs do LCD.
     
@@ -125,7 +125,7 @@ Trabalhando com o LCD.
         > `movw $-1, (%A)`: Gera o vetor `1111111111111` e grava no endereço que %A aponta (primeiros pxs do LCD)
 
 !!! example "lcd2.nasm" 
-    - `Projetos/E-Assembly/src/labs/lcd1.nasm`
+    - `Projetos/E-Assembly/src/labs/lcd2.nasm`
     
     Acione todos os pxs da primeira posição de memória do LCD, do meio do LCD e da última posição de memória do LCD.
     
