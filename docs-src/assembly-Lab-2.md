@@ -108,7 +108,7 @@ Problemas relacionado a chave do nosso Z01
 
 Trabalhando com o LCD.
 
-!!! LCD 
+!!! example "LCD" 
 <!--example "lcd1.nasm" 
 `Projetos/E-Assembly/src/labs/lcd1.nasm` -->
     
