@@ -104,9 +104,11 @@ Para testar o projeto com o código exemplo anterior basta executar o comando a 
 
 `./testeLab.py`.
 
+<!--
 O teste deve passar, como a seguir:
 
 <script id="asciicast-rnFQXSSGiHuCGuUD3vVJw5I1Z" src="https://asciinema.org/a/rnFQXSSGiHuCGuUD3vVJw5I1Z.js" async></script>
+-->
 
 !!! tip
     Execute o comando com `-g` e verifique a forma de onda (e todos os sinais internos da CPU)
@@ -183,9 +185,11 @@ Discuta em grupo as limitações dessa nossa CPU, e o que poderia ser feito para
 1. Temos condicionais? Como implementar?
 1. ....
 
+<!--
 Responda o formulário com a resposta do grupo após discussão (pode ser uma resposta por grupo ou uma mais de uma, vocês que escolhem):
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf9E3FFm7BxbeLG6C-YxsPattmbwfZz_MVnKwrZ_kkc-k1R1A/viewform?embedded=true" width="640" height="769" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+-->
 
 ## Adicionando condicional 
 
