@@ -72,7 +72,7 @@ Adicione ao Actions os dois testes, separando o memoryIO e o controlUnit:
 - `testeAssemblyMyCPU.py`
 
 !!! tip
-    No Actions você tem que colocar o caminho completo: `Projeto/F-CPU/...`
+    No Actions você tem que colocar o caminho completo: `Projeto/F-Computador/...`
 
 
 ## Projeto
