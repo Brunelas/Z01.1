@@ -13,7 +13,7 @@ A seguir explicações de como começar o projeto.
 A pasta do projeto F no repositório Z01, possui a seguinte estrutura:
 
 ```
-F-CPU/
+F-Computador/
     testeHW.py
     testeAssemblyMyCPU.py
     Z01SimuladorMyCPU.py
