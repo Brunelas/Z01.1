@@ -56,7 +56,7 @@ Podendo ser traduzido para o código em VHDL (via soma dos produtos):
 
 
 !!! example "Implementando e testando"
-    1. Abra o arquivo `/Projetos/F-CPU/src/rtl/controlUnit.vhd`
+    1. Abra o arquivo `/Projetos/F-Computador/src/rtl/controlUnit.vhd`
     1. Insira a implementação anterior do `loadD` na arquitetura
     1. Teste com o comando `./testeHW.py lib.tb_controlunit.all`
        - Deve passar no ==TESTE 1== e ==TESTE 2==
