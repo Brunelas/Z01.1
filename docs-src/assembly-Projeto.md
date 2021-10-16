@@ -91,7 +91,8 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
 - String length 
     - **Arquivo** : `stringLength.nasm`
 - Linha
-    - **Arquivo**   : `line.nasm`
+    - **Arquivo**   : `LCDlinha.nasm`
+    - Edite o arquivo para desenhar uma linha completa
 
 
 
