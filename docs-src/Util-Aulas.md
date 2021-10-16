@@ -1,6 +1,6 @@
 # Resumo Aulas
 
-Resumo e planejamento das aulas (Atualizado em 16/10!).
+Resumo e planejamento das aulas (Atualizado em 16/10).
 
 ![](https://github.com/Insper/Z01.1/raw/main/Planejamento.png){width=550}
 
