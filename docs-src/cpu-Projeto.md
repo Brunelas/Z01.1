@@ -10,7 +10,7 @@ A seguir explicações de como começar o projeto.
 
 ### Entendendo a Organização do Projeto
 
-A pasta do projeto G no repositório Z01, possui a seguinte estrutura:
+A pasta do projeto F no repositório Z01, possui a seguinte estrutura:
 
 ```
 F-CPU/
@@ -29,7 +29,7 @@ F-CPU/
 
 ### Testando HW (ControlUnit e MemoryIO)
 
-Abra o terminal na pasta `G-CPU` e execute o script python localizado nessa pasta:
+Abra o terminal na pasta `F-CPU` e execute o script python localizado nessa pasta:
 
 ```bash
 $ ./testeHW.py
@@ -63,16 +63,16 @@ Esse script irá compilar todos os módulos (desde o projeto C) e executar o top
     
     - [Testando CPU](https://insper.github.io/Z01.1/cpu-Testando/)
 
-### Travis
+### Actions
 
-Adicione ao Travis os dois testes, separando o memoryIO e o controlUnit:
+Adicione ao Actions os dois testes, separando o memoryIO e o controlUnit:
 
 - `testeHW.py lib.tb_memoryio.all`
 - `testeHW.py lib.tb_controlunit.all`
 - `testeAssemblyMyCPU.py`
 
 !!! tip
-    No travis você tem que colocar o caminho completo: `Projeto/F-CPU/...`
+    No Actions você tem que colocar o caminho completo: `Projeto/F-CPU/...`
 
 
 ## Projeto
@@ -149,7 +149,7 @@ Os módulos estão listados de maneira Top - Down
 | D        |  Ao menos um módulo não está feito e não passa no testes.                          |
 |          |                                                                                    |
 | C        |  Construiu com os módulos do grupo o seu próprio computador                        |
-|          |  Todos os módulos sendo testados no Travis.                                        |
+|          |  Todos os módulos sendo testados no Actions.                                        |
 |          |  Todos os módulos passam nos testes.                                               |
 |          |                                                                                    |
 | B        |  Adiciona um novo registrador a CPU  (`%S`)                                        |
