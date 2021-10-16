@@ -33,6 +33,32 @@ Liberado consulta ao material da disciplina.
 Simulado liberado no blackboard.
 --->
 
+## AV3 - sexta 05/11
+
+Avaliação prática individual a ser realizada no SSD Linux. 
+
+A avaliação será distribuída via github classroom (link estará no blakcboard) e o envio deve ser feito via ele.
+
+Liberado consulta ao material da disciplina.
+
+- Projetos:
+    - E: Assembly  
+    - F: CPU
+
+- Conteúdos:
+    - Assembly
+    - Assembly - Mapa de memória
+    - Assembly - Saltos
+    - Linguagem de máquina
+    - Conjunto de Instruções
+    - CPU
+    - Control Unit
+    - VHDL
+
+[Prova - Av3 - 21a](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova-Av3-21a.pdf) - 
+
+
+
 ## AV2 - AI - sexta 01/10 - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova-Av2_resposta.pdf )
 
 Avaliação prática individual a ser realizada no SSD Linux. 
