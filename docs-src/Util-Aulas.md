@@ -1,6 +1,6 @@
 # Resumo Aulas
 
-Resumo e planejamento das aulas.
+Resumo e planejamento das aulas (Atualizado em 16/10!).
 
 ![](https://github.com/Insper/Z01.1/raw/main/Planejamento.png){width=550}
 
@@ -36,6 +36,32 @@ Labs:
 -  Labs e Teoria (~1h15):
 
 -->
+
+
+## Aula 20/10
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [CPU](https://insper.github.io/Z01.1/Teoria-Z01/)       |
+
+1. Expositiva/ Dúvidas  (1h00)
+
+1. Laboratório (1h00)
+    - [Lab 9: Pequena CPU](/Z01.1/ula-lab-4/)
+
+
+## Aula 15/10
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [ASM](https://insper.github.io/Z01.1/Util-Resumo-Assembly/)       |
+
+
+1. ASM - Instruções, limitações do Z01 (1h00)
+
+1. Laboratório (1h00)
+    - [Lab 13: Jump](/Z01.1/assembly-Lab-3/)
+    - [Lab 14: Praticando](/Z01.1/assembly-Lab-4/)   
+    
 
 ## Aula 13/10
 
