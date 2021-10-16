@@ -1,7 +1,7 @@
 # Lab 15: Control Unit
 
 !!! warning "Antes de começar"
-    Aqui começa o projeto **F-CPU**. ==Vocês devem escolher um novo Mediador==
+    <!-- Aqui começa o projeto **F-CPU**. ==Vocês devem escolher um novo Mediador== -->
     
     Toda vez que um novo projeto começar será necessário realizar algumas configurações no repositório do grupo, vocês devem seguir para o documento: [`Util/Começando novo Projeto`](https://insper.github.io/Z01.1/Util-Comecando-novo-projeto/) e depois voltar para esse lab.
 
